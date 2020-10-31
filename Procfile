@@ -1,1 +1,1 @@
-web: gunicorn donesem.wsgi --log-file -
+web: gunicorn ict.wsgi --log-file -
