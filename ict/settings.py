@@ -32,6 +32,7 @@ INSTALLED_APPS = [
 
     # third-party apps
     'location_field.apps.DefaultConfig',
+    'rest_framework',
 
     # custom apps
     'locations',
