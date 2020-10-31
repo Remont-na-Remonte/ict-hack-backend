@@ -1,6 +1,6 @@
 # ICT Hackathon Project
 
-### Running locally
+## Running locally
 
 Initially, install **pipenv** via _brew_ or _pip_.
 
@@ -20,3 +20,10 @@ When the above-written instructions are done, you can configure and run the serv
 ```
 
 Now you can access the server at _localhost:8000_ by default
+
+## Populating the DB
+
+To populate the DB with the initial objects run the following command:
+```
+(ict-hack-backend) $ python manage.py populate_objects
+```

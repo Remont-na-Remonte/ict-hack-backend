@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 dj-database-url = "*"
 psycopg2-binary = "*"
+django-location-field = "*"
 
 [requires]
 python_version = "3.7"
