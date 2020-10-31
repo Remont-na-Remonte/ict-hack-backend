@@ -1,0 +1,1 @@
+web: gunicorn donesem.wsgi --log-file -
