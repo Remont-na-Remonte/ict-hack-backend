@@ -11,7 +11,7 @@ class ObjectListAPI(generics.ListAPIView):
     def get_queryset(self):
         page = self.request.query_params.get('page', None)
 
-        if page.isdigit() and int(page) > 0:
+        if page and page.isdigit() and int(page) > 0:
             return Object.objects.all()[(int(page) - 1) * 100:int(page) * 100]
 
         return Object.objects.all()
