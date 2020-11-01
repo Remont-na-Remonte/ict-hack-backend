@@ -37,4 +37,4 @@ class ObjectSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Object
-        fields = ('name', 'geometry', )
+        fields = ('id', 'name', 'geometry', )

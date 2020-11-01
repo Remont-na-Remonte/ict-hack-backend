@@ -13,6 +13,8 @@ django-location-field = "*"
 gunicorn = "*"
 whitenoise = "*"
 djangorestframework = "*"
+pandas = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
