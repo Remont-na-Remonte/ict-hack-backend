@@ -7,7 +7,8 @@ class ItemSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Item
-        fields = '__all__'
+        # fields = '__all__'
+        exclude = ('roadway_area', 'footway_area', 'margin_area', 'total_area', '_object')
 
 
 class ItemizedListSerializer(serializers.ModelSerializer):
