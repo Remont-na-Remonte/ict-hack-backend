@@ -1,0 +1,1071 @@
+Watching for file changes with StatReloader
+Not Found: /
+[09/Nov/2020 18:59:15] "GET / HTTP/1.1" 404 2513
+Not Found: /favicon.ico
+[09/Nov/2020 18:59:16] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 18:59:22] "GET /admin HTTP/1.1" 301 0
+[09/Nov/2020 18:59:22] "GET /admin/ HTTP/1.1" 302 0
+[09/Nov/2020 18:59:22] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 18:59:22] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[09/Nov/2020 18:59:22] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[09/Nov/2020 18:59:22] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[09/Nov/2020 18:59:22] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[09/Nov/2020 18:59:23] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18294
+[09/Nov/2020 18:59:23] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+Not Found: /favicon.ico
+[09/Nov/2020 18:59:23] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 18:59:23] "GET /admin HTTP/1.1" 301 0
+[09/Nov/2020 18:59:23] "GET /admin/ HTTP/1.1" 302 0
+[09/Nov/2020 18:59:23] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[09/Nov/2020 18:59:23] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[09/Nov/2020 18:59:23] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 18:59:23] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[09/Nov/2020 18:59:23] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[09/Nov/2020 18:59:23] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[09/Nov/2020 18:59:23] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18294
+[09/Nov/2020 18:59:23] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[09/Nov/2020 18:59:23] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[09/Nov/2020 18:59:24] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[09/Nov/2020 18:59:24] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[09/Nov/2020 18:59:24] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[09/Nov/2020 18:59:24] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[09/Nov/2020 18:59:24] "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+[09/Nov/2020 18:59:24] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[09/Nov/2020 18:59:56] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[09/Nov/2020 18:59:57] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2354
+[09/Nov/2020 19:00:05] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2354
+[09/Nov/2020 19:00:37] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[09/Nov/2020 19:00:37] "GET /admin/ HTTP/1.1" 200 6901
+[09/Nov/2020 19:00:37] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[09/Nov/2020 19:00:37] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[09/Nov/2020 19:00:37] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+Not Found: /favicon.ico
+[09/Nov/2020 19:00:38] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:00:41] "GET /admin/locations/object/ HTTP/1.1" 200 7057
+[09/Nov/2020 19:00:41] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6263
+[09/Nov/2020 19:00:41] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/Nov/2020 19:00:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:00:41] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/Nov/2020 19:00:41] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[09/Nov/2020 19:00:41] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[09/Nov/2020 19:00:41] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[09/Nov/2020 19:00:41] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[09/Nov/2020 19:00:41] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/Nov/2020 19:00:41] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/Nov/2020 19:00:42] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+[09/Nov/2020 19:00:42] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:04:02] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 19:04:03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 19:05:06] "GET /admin/ HTTP/1.1" 200 6901
+[09/Nov/2020 19:05:06] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:05:06] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:05:06] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:05:06] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:05:06] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:05:07] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:05:19] "GET /admin/locations/object/add/ HTTP/1.1" 200 10936
+[09/Nov/2020 19:05:19] "GET /static/admin/css/forms.css HTTP/1.1" 200 8423
+[09/Nov/2020 19:05:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:05:19] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/Nov/2020 19:05:19] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[09/Nov/2020 19:05:19] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[09/Nov/2020 19:05:19] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[09/Nov/2020 19:05:19] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/Nov/2020 19:05:19] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[09/Nov/2020 19:05:19] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/Nov/2020 19:05:19] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10592
+[09/Nov/2020 19:05:19] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/Nov/2020 19:05:19] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[09/Nov/2020 19:05:20] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+Not Found: /favicon.ico
+[09/Nov/2020 19:05:20] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:05:33] "GET /admin/locations/point/add/ HTTP/1.1" 200 8772
+[09/Nov/2020 19:05:33] "GET /static/location_field/js/form.js HTTP/1.1" 200 21651
+[09/Nov/2020 19:05:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:05:33] "GET /static/location_field/leaflet.js HTTP/1.1" 200 125709
+[09/Nov/2020 19:05:33] "GET /static/location_field/l.control.geosearch.js HTTP/1.1" 200 7480
+[09/Nov/2020 19:05:34] "GET /static/location_field/leaflet.css HTTP/1.1" 200 10373
+[09/Nov/2020 19:05:34] "GET /static/location_field/leaflet-google.js HTTP/1.1" 200 3621
+[09/Nov/2020 19:05:34] "GET /static/location_field/l.geosearch.provider.google.js HTTP/1.1" 200 2479
+[09/Nov/2020 19:05:34] "GET /static/location_field/images/marker-icon-2x.png HTTP/1.1" 200 4033
+[09/Nov/2020 19:05:34] "GET /static/location_field/images/marker-shadow.png HTTP/1.1" 200 797
+Not Found: /favicon.ico
+[09/Nov/2020 19:05:35] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:05:49] "GET /admin/locations/ownerid/add/ HTTP/1.1" 200 9558
+[09/Nov/2020 19:05:49] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19750
+[09/Nov/2020 19:05:49] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7788
+[09/Nov/2020 19:05:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:05:50] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+Not Found: /favicon.ico
+[09/Nov/2020 19:05:50] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:06:06] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[09/Nov/2020 19:06:14] "POST /admin/locations/ownerid/add/ HTTP/1.1" 302 0
+[09/Nov/2020 19:06:14] "GET /admin/locations/ownerid/ HTTP/1.1" 200 8453
+[09/Nov/2020 19:06:14] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6263
+[09/Nov/2020 19:06:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:06:14] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[09/Nov/2020 19:06:14] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[09/Nov/2020 19:15:06] "GET /admin/locations/ownerid/add/ HTTP/1.1" 200 9558
+[09/Nov/2020 19:24:35] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 19:24:35] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:24:35] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Not Found: /
+[09/Nov/2020 19:36:38] "GET / HTTP/1.1" 404 2513
+[09/Nov/2020 19:36:43] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 19:36:43] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:36:43] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 09, 2020 - 19:35:29
+Django version 3.1.2, using settings 'ict.settings'
+Starting development server at http://194.67.78.189:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[09/Nov/2020 19:53:54] "GET /admin/locations/ownerid/ HTTP/1.1" 200 8237
+[09/Nov/2020 19:53:54] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[09/Nov/2020 19:53:54] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[09/Nov/2020 19:53:54] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18294
+[09/Nov/2020 19:53:54] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[09/Nov/2020 19:53:54] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[09/Nov/2020 19:53:54] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[09/Nov/2020 19:53:54] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/Nov/2020 19:53:54] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[09/Nov/2020 19:53:54] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[09/Nov/2020 19:53:54] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/Nov/2020 19:53:54] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6263
+[09/Nov/2020 19:53:54] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/Nov/2020 19:53:54] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/Nov/2020 19:53:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:53:55] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 19:53:55] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/Nov/2020 19:53:55] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:53:55] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 19:53:55] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[09/Nov/2020 19:53:55] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:53:55] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 19:53:59] "GET /admin/locations/ownerid/ HTTP/1.1" 200 8237
+[09/Nov/2020 19:53:59] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[09/Nov/2020 19:53:59] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[09/Nov/2020 19:53:59] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/Nov/2020 19:53:59] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[09/Nov/2020 19:53:59] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6263
+[09/Nov/2020 19:53:59] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[09/Nov/2020 19:53:59] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[09/Nov/2020 19:53:59] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[09/Nov/2020 19:53:59] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/Nov/2020 19:53:59] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[09/Nov/2020 19:53:59] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/Nov/2020 19:53:59] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18294
+[09/Nov/2020 19:53:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:53:59] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/Nov/2020 19:54:05] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:54:05] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:05] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:05] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:05] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:05] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[09/Nov/2020 19:54:05] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 19:54:14] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:54:14] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:14] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[09/Nov/2020 19:54:14] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:14] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:14] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /admin/locations/object/ HTTP/1.1" 200 7057
+[09/Nov/2020 19:54:27] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Not Found: /favicon.ico
+[09/Nov/2020 19:54:27] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:54:31] "GET /admin/locations/ownerid/ HTTP/1.1" 200 8237
+[09/Nov/2020 19:54:31] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Not Found: /favicon.ico
+[09/Nov/2020 19:54:31] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:54:36] "GET /admin/locations/ownerid/1/change/ HTTP/1.1" 200 9848
+[09/Nov/2020 19:54:36] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19750
+[09/Nov/2020 19:54:36] "GET /static/admin/css/forms.css HTTP/1.1" 200 8423
+[09/Nov/2020 19:54:36] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7788
+[09/Nov/2020 19:54:36] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 19:54:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 19:54:36] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[09/Nov/2020 19:54:36] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[09/Nov/2020 19:54:36] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[09/Nov/2020 19:54:36] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:54:36] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+Not Found: /
+[09/Nov/2020 19:54:52] "GET / HTTP/1.1" 404 2513
+Not Found: /favicon.ico
+[09/Nov/2020 19:54:53] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 19:58:13] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:13] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:13] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:13] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:13] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:13] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:20] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:20] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:20] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:21] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:21] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:21] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:21] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:21] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:21] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:22] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:22] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:22] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:22] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:22] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:22] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:23] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:23] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:23] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:23] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:23] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:23] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:24] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:24] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:24] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:24] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:24] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:24] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:25] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 19:58:25] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:25] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:25] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 19:58:25] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 19:58:25] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+Not Found: /
+[09/Nov/2020 21:42:16] "GET / HTTP/1.1" 404 2513
+Not Found: /
+[09/Nov/2020 21:47:34] "GET / HTTP/1.1" 404 2513
+Not Found: /favicon.ico
+[09/Nov/2020 21:47:36] "GET /favicon.ico HTTP/1.1" 404 2564
+[09/Nov/2020 21:47:38] "GET /admin HTTP/1.1" 301 0
+[09/Nov/2020 21:47:38] "GET /admin/ HTTP/1.1" 302 0
+[09/Nov/2020 21:47:38] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[09/Nov/2020 21:47:39] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[09/Nov/2020 21:47:39] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[09/Nov/2020 21:47:39] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[09/Nov/2020 21:47:39] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[09/Nov/2020 21:47:39] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18294
+[09/Nov/2020 21:47:39] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[09/Nov/2020 21:47:39] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[09/Nov/2020 21:47:39] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[09/Nov/2020 21:47:45] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[09/Nov/2020 21:47:45] "GET /admin/ HTTP/1.1" 200 7236
+[09/Nov/2020 21:47:45] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[09/Nov/2020 21:47:45] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[09/Nov/2020 21:47:45] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[09/Nov/2020 21:47:46] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[09/Nov/2020 21:47:48] "GET /admin/locations/point/ HTTP/1.1" 200 7050
+[09/Nov/2020 21:47:48] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[09/Nov/2020 21:47:48] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/Nov/2020 21:47:48] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6263
+[09/Nov/2020 21:47:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 21:47:48] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[09/Nov/2020 21:47:48] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/Nov/2020 21:47:48] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[09/Nov/2020 21:47:48] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[09/Nov/2020 21:47:49] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/Nov/2020 21:47:49] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/Nov/2020 21:47:49] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/asgiref/current_thread_executor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 09, 2020 - 19:53:50
+Django version 3.1.2, using settings 'ict.settings'
+Starting development server at http://194.67.78.189:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/apps/registry.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 09, 2020 - 22:22:17
+Django version 3.1.2, using settings 'ict.settings'
+Starting development server at http://194.67.78.189:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manage.py", line 11, in main
+    from django.core.management import execute_from_command_line
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+ModuleNotFoundError: No module named 'django.utils'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    main()
+  File "manage.py", line 17, in main
+    ) from exc
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Watching for file changes with StatReloader
+Not Found: /
+[09/Nov/2020 22:47:26] "GET / HTTP/1.1" 404 2513
+[09/Nov/2020 22:47:28] "GET /admin/ HTTP/1.1" 200 9513
+[09/Nov/2020 22:47:29] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 22:47:29] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /admin/locations/point/ HTTP/1.1" 200 31576
+[09/Nov/2020 22:47:35] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:47:35] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:35] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 22:47:36] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+[09/Nov/2020 22:48:05] "GET /admin/locations/point/ HTTP/1.1" 200 31576
+[09/Nov/2020 22:48:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:48:23] "GET /admin/locations/point/ HTTP/1.1" 200 31576
+[09/Nov/2020 22:48:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:14] "GET /admin/locations/point/ HTTP/1.1" 200 7050
+[09/Nov/2020 22:49:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:16] "GET /admin/locations/object/ HTTP/1.1" 200 7057
+[09/Nov/2020 22:49:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:17] "GET /admin/locations/ownerid/ HTTP/1.1" 200 7069
+[09/Nov/2020 22:49:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:18] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 7111
+[09/Nov/2020 22:49:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:18] "GET /admin/locations/polygon/ HTTP/1.1" 200 14278
+[09/Nov/2020 22:49:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:49:50] "GET /admin/locations/polygon/ HTTP/1.1" 200 7064
+[09/Nov/2020 22:49:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:58:12] "GET /admin/locations/polygon/ HTTP/1.1" 200 14305
+[09/Nov/2020 22:58:12] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 22:58:12] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 22:58:12] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /admin/locations/polygon/ HTTP/1.1" 200 30261
+[09/Nov/2020 23:14:10] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:14:10] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:14:10] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:14:11] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:14:11] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:14:11] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:14:14] "GET /admin/locations/object/ HTTP/1.1" 200 34608
+[09/Nov/2020 23:14:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:22:48] "GET /admin/locations/object/ HTTP/1.1" 200 7057
+[09/Nov/2020 23:22:49] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:22:49] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:22:49] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:22:51] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 7111
+[09/Nov/2020 23:22:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:22:51] "GET /admin/locations/ownerid/ HTTP/1.1" 200 7069
+[09/Nov/2020 23:22:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:22:52] "GET /admin/locations/point/ HTTP/1.1" 200 7050
+[09/Nov/2020 23:22:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:22:53] "GET /admin/locations/polygon/ HTTP/1.1" 200 7064
+[09/Nov/2020 23:22:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:23:08] "GET /admin/locations/polygon/ HTTP/1.1" 200 11532
+[09/Nov/2020 23:23:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:23:11] "GET /admin/locations/object/ HTTP/1.1" 200 14397
+[09/Nov/2020 23:23:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:41:07] "GET /admin/ HTTP/1.1" 200 9513
+[09/Nov/2020 23:41:07] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:41:07] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[09/Nov/2020 23:41:08] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:41:08] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:41:08] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /admin/locations/object/ HTTP/1.1" 200 34626
+[09/Nov/2020 23:41:20] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[09/Nov/2020 23:41:20] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/Nov/2020 23:41:20] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Nov/2020 00:24:25] "GET /admin/ HTTP/1.1" 200 9513
+[10/Nov/2020 00:24:26] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 00:24:26] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /admin/locations/point/ HTTP/1.1" 200 32312
+[10/Nov/2020 00:24:31] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 00:24:31] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Nov/2020 00:24:31] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Nov/2020 00:24:33] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 00:24:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 00:24:40] "GET /admin/locations/object/ HTTP/1.1" 200 36759
+[10/Nov/2020 00:24:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Invalid HTTP_HOST header: '194-67-78-189.cloudvps.regruhosting.ru'. You may need to add '194-67-78-189.cloudvps.regruhosting.ru' to ALLOWED_HOSTS.
+Bad Request: /
+[10/Nov/2020 05:25:46] "GET / HTTP/1.1" 400 64178
+[10/Nov/2020 05:50:46] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 05:50:46] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 05:50:46] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:46] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 05:50:47] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 05:50:48] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 05:50:54] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 05:50:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 05:51:20] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 05:51:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 05:51:50] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 05:51:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 05:52:06] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 05:52:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 06:07:37] "GET /admin/ HTTP/1.1" 200 9513
+[10/Nov/2020 06:07:38] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 06:07:38] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 06:07:38] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 06:07:40] "GET /admin/locations/object/ HTTP/1.1" 200 35563
+[10/Nov/2020 06:07:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:07:00] "GET /admin/ HTTP/1.1" 200 9513
+[10/Nov/2020 08:07:00] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:00] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:00] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:00] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:00] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:00] "GET /admin/ HTTP/1.1" 200 9513
+[10/Nov/2020 08:07:01] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 08:07:01] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 08:07:03] "GET /admin/locations/point/ HTTP/1.1" 200 32383
+[10/Nov/2020 08:07:04] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:07:04] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Nov/2020 08:07:04] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Nov/2020 08:07:11] "GET /admin/locations/point/1281980/change/ HTTP/1.1" 200 9020
+[10/Nov/2020 08:07:12] "GET /static/admin/css/forms.css HTTP/1.1" 200 8423
+[10/Nov/2020 08:07:12] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[10/Nov/2020 08:07:12] "GET /static/location_field/js/form.js HTTP/1.1" 200 21651
+[10/Nov/2020 08:07:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:07:12] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10592
+[10/Nov/2020 08:07:12] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[10/Nov/2020 08:07:12] "GET /static/location_field/leaflet.js HTTP/1.1" 200 125709
+[10/Nov/2020 08:07:12] "GET /static/location_field/l.control.geosearch.js HTTP/1.1" 200 7480
+[10/Nov/2020 08:07:12] "GET /static/location_field/leaflet.css HTTP/1.1" 200 10373
+[10/Nov/2020 08:07:12] "GET /static/location_field/leaflet-google.js HTTP/1.1" 200 3621
+[10/Nov/2020 08:07:12] "GET /static/location_field/l.geosearch.provider.google.js HTTP/1.1" 200 2479
+[10/Nov/2020 08:07:12] "GET /static/location_field/images/marker-shadow.png HTTP/1.1" 200 797
+[10/Nov/2020 08:07:12] "GET /static/location_field/images/marker-icon-2x.png HTTP/1.1" 200 4033
+[10/Nov/2020 08:07:15] "GET /admin/locations/point/ HTTP/1.1" 200 32383
+[10/Nov/2020 08:09:00] "GET /admin/locations/point/ HTTP/1.1" 200 32383
+[10/Nov/2020 08:09:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:09:07] "GET /admin/locations/point/ HTTP/1.1" 200 32383
+[10/Nov/2020 08:09:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:09:19] "GET /admin/locations/point/ HTTP/1.1" 200 32383
+[10/Nov/2020 08:09:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:13:59] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[10/Nov/2020 08:13:59] "    c                           " 400 -
+Internal Server Error: /admin/locations/point/
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "locations_point" does not exist
+LINE 1: SELECT COUNT(*) AS "__count" FROM "locations_point"
+                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1693, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/options.py", line 748, in get_changelist_instance
+    sortable_by,
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/views/main.py", line 100, in __init__
+    self.get_results(request)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/views/main.py", line 235, in get_results
+    result_count = paginator.count
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/core/paginator.py", line 94, in count
+    return c()
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/query.py", line 411, in count
+    return self.query.get_count(using=self.db)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/sql/query.py", line 515, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/sql/query.py", line 500, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1156, in execute_sql
+    cursor.execute(sql, params)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "locations_point" does not exist
+LINE 1: SELECT COUNT(*) AS "__count" FROM "locations_point"
+                                          ^
+
+[10/Nov/2020 08:16:10] "GET /admin/locations/point/ HTTP/1.1" 500 167923
+[10/Nov/2020 08:17:13] "GET /admin/locations/point/ HTTP/1.1" 302 0
+[10/Nov/2020 08:17:13] "GET /admin/login/?next=/admin/locations/point/ HTTP/1.1" 200 2226
+[10/Nov/2020 08:17:14] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[10/Nov/2020 08:17:51] "POST /admin/login/?next=/admin/locations/point/ HTTP/1.1" 302 0
+[10/Nov/2020 08:17:51] "GET /admin/locations/point/ HTTP/1.1" 200 7050
+[10/Nov/2020 08:17:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:19:09] "GET /admin/locations/point/ HTTP/1.1" 200 31753
+[10/Nov/2020 08:19:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:19:14] "GET /admin/locations/point/ HTTP/1.1" 200 31761
+[10/Nov/2020 08:19:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:19:17] "GET /admin/locations/point/ HTTP/1.1" 200 31868
+[10/Nov/2020 08:19:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:19:20] "GET /admin/locations/point/ HTTP/1.1" 200 31366
+[10/Nov/2020 08:19:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:21:12] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 08:21:13] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 08:21:16] "GET /admin/locations/object/ HTTP/1.1" 200 34001
+[10/Nov/2020 08:21:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 08:21:22] "GET /admin/locations/object/ HTTP/1.1" 200 33952
+[10/Nov/2020 08:21:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Not Found: /
+[10/Nov/2020 09:38:22] "GET / HTTP/1.1" 404 2513
+Not Found: /favicon.ico
+[10/Nov/2020 09:38:22] "GET /favicon.ico HTTP/1.1" 404 2564
+[10/Nov/2020 09:38:33] code 400, message Bad request syntax ("\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03\x07(\x0f>J\x03Z\x14Á\x98xì 'LÂÕE¦½ª\x9b]!»\x1dl\x8eF±;A\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À")
+[10/Nov/2020 09:38:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/Nov/2020 09:38:38] "GET /admin HTTP/1.1" 301 0
+[10/Nov/2020 09:38:38] "GET /admin/ HTTP/1.1" 302 0
+[10/Nov/2020 09:38:38] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[10/Nov/2020 09:38:38] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[10/Nov/2020 09:38:38] "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[10/Nov/2020 09:38:38] "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[10/Nov/2020 09:38:38] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18339
+[10/Nov/2020 09:38:38] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[10/Nov/2020 09:38:38] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[10/Nov/2020 09:38:38] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[10/Nov/2020 09:38:38] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[10/Nov/2020 09:38:54] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[10/Nov/2020 09:38:54] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:38:54] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[10/Nov/2020 09:38:55] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[10/Nov/2020 09:38:55] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[10/Nov/2020 09:38:55] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[10/Nov/2020 09:39:18] "GET /admin/locations/object/ HTTP/1.1" 200 35446
+[10/Nov/2020 09:39:18] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[10/Nov/2020 09:39:18] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6281
+[10/Nov/2020 09:39:18] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[10/Nov/2020 09:39:18] "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[10/Nov/2020 09:39:18] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[10/Nov/2020 09:39:18] "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[10/Nov/2020 09:39:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:19] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[10/Nov/2020 09:39:19] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[10/Nov/2020 09:39:19] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[10/Nov/2020 09:39:19] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[10/Nov/2020 09:39:30] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:32] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 32872
+[10/Nov/2020 09:39:32] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:42] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:45] "GET /admin/auth/group/ HTTP/1.1" 200 7378
+[10/Nov/2020 09:39:45] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[10/Nov/2020 09:39:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:46] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:48] "GET /admin/auth/user/ HTTP/1.1" 200 10457
+[10/Nov/2020 09:39:48] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[10/Nov/2020 09:39:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:48] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[10/Nov/2020 09:39:51] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:52] "GET /admin/itemized_lists/itemizedlist/ HTTP/1.1" 200 7124
+[10/Nov/2020 09:39:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:54] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:55] "GET /admin/itemized_lists/item/ HTTP/1.1" 200 7063
+[10/Nov/2020 09:39:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:39:57] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:39:59] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 32872
+[10/Nov/2020 09:39:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:40:03] "GET /admin/locations/calcattribute/5923/change/ HTTP/1.1" 200 25715
+[10/Nov/2020 09:40:03] "GET /static/admin/css/forms.css HTTP/1.1" 200 8423
+[10/Nov/2020 09:40:03] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[10/Nov/2020 09:40:03] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10592
+[10/Nov/2020 09:40:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:40:03] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[10/Nov/2020 09:40:11] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 32872
+[10/Nov/2020 09:40:14] "GET /admin/locations/calcattribute/5907/change/ HTTP/1.1" 200 25715
+[10/Nov/2020 09:40:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:40:18] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 32872
+[10/Nov/2020 09:40:19] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:40:22] "GET /admin/locations/point/ HTTP/1.1" 200 32324
+[10/Nov/2020 09:40:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:40:36] "GET /admin/locations/point/1255637/change/ HTTP/1.1" 200 9020
+[10/Nov/2020 09:40:36] "GET /static/location_field/js/form.js HTTP/1.1" 200 21651
+[10/Nov/2020 09:40:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:40:36] "GET /static/location_field/leaflet.js HTTP/1.1" 200 125709
+[10/Nov/2020 09:40:36] "GET /static/location_field/l.control.geosearch.js HTTP/1.1" 200 7480
+[10/Nov/2020 09:40:36] "GET /static/location_field/leaflet.css HTTP/1.1" 200 10373
+[10/Nov/2020 09:40:36] "GET /static/location_field/leaflet-google.js HTTP/1.1" 200 3621
+[10/Nov/2020 09:40:36] "GET /static/location_field/l.geosearch.provider.google.js HTTP/1.1" 200 2479
+[10/Nov/2020 09:40:36] "GET /static/location_field/images/marker-shadow.png HTTP/1.1" 200 797
+[10/Nov/2020 09:40:36] "GET /static/location_field/images/marker-icon.png HTTP/1.1" 200 4033
+[10/Nov/2020 09:41:08] "GET /admin/locations/point/ HTTP/1.1" 200 32730
+[10/Nov/2020 09:41:11] "GET /admin/locations/point/1266951/change/ HTTP/1.1" 200 9024
+[10/Nov/2020 09:41:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 09:41:16] "GET /admin/locations/point/ HTTP/1.1" 200 32499
+[10/Nov/2020 09:41:23] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 09:41:27] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 09:41:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[10/Nov/2020 10:29:39] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 10:29:43] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 10:29:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Internal Server Error: /admin/locations/polygon/6076/change/
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/utils.py", line 97, in inner
+    return func(*args, **kwargs)
+psycopg2.OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/core/handlers/base.py", line 202, in _get_response
+    response = response.render()
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/defaulttags.py", line 211, in render
+    nodelist.append(node.render_annotated(context))
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/loader_tags.py", line 192, in render
+    return template.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 172, in render
+    return self._render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/defaulttags.py", line 211, in render
+    nodelist.append(node.render_annotated(context))
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/defaulttags.py", line 211, in render
+    nodelist.append(node.render_annotated(context))
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 994, in render
+    return render_value_in_context(output, context)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/template/base.py", line 973, in render_value_in_context
+    value = str(value)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/utils/html.py", line 376, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/boundfield.py", line 34, in __str__
+    return self.as_widget()
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/boundfield.py", line 97, in as_widget
+    renderer=self.form.renderer,
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/widgets.py", line 241, in render
+    context = self.get_context(name, value, attrs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/contrib/admin/widgets.py", line 283, in get_context
+    'rendered_widget': self.widget.render(name, value, attrs),
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/widgets.py", line 241, in render
+    context = self.get_context(name, value, attrs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/widgets.py", line 678, in get_context
+    context = super().get_context(name, value, attrs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/widgets.py", line 639, in get_context
+    context['widget']['optgroups'] = self.optgroups(name, context['widget']['value'], attrs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/widgets.py", line 587, in optgroups
+    for index, (option_value, option_label) in enumerate(self.choices):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/forms/models.py", line 1156, in __iter__
+    for obj in queryset:
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/query.py", line 360, in _iterator
+    yield from self._iterable_class(self, chunked_fetch=use_chunked_fetch, chunk_size=chunk_size)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/query.py", line 70, in __iter__
+    for row in compiler.results_iter(results):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1606, in cursor_iter
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1606, in <lambda>
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/utils.py", line 97, in inner
+    return func(*args, **kwargs)
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/root/.local/share/virtualenvs/ict-hack-backend-AjUu-gEk/lib/python3.6/site-packages/django/db/utils.py", line 97, in inner
+    return func(*args, **kwargs)
+django.db.utils.OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+[10/Nov/2020 10:30:00] "GET /admin/locations/polygon/6076/change/ HTTP/1.1" 500 597953
+[10/Nov/2020 10:31:52] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 10:31:57] "GET /admin/locations/point/ HTTP/1.1" 200 32480
+[10/Nov/2020 10:31:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:31:59] "GET /admin/locations/point/1272586/change/ HTTP/1.1" 200 9021
+[10/Nov/2020 10:31:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:32:02] "GET /admin/locations/ownerid/ HTTP/1.1" 200 31612
+[10/Nov/2020 10:32:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:32:03] "GET /admin/locations/ownerid/6071/change/ HTTP/1.1" 200 9865
+[10/Nov/2020 10:32:03] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7788
+[10/Nov/2020 10:32:03] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19750
+[10/Nov/2020 10:32:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:32:03] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[10/Nov/2020 10:35:16] "GET /admin/locations/point/ HTTP/1.1" 200 32480
+[10/Nov/2020 10:35:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:35:24] "GET /admin/locations/point/?p=12725 HTTP/1.1" 200 33285
+[10/Nov/2020 10:35:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:35:39] "GET /admin/locations/point/31/change/?_changelist_filters=p%3D12725 HTTP/1.1" 200 9107
+[10/Nov/2020 10:35:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:35:44] "GET /admin/locations/point/?p=12725 HTTP/1.1" 200 33285
+[10/Nov/2020 10:36:03] "GET /admin/locations/object/ HTTP/1.1" 200 37563
+[10/Nov/2020 10:36:07] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:36:07] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:36:07] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:36:12] "GET /admin/locations/point/ HTTP/1.1" 200 32480
+[10/Nov/2020 10:36:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:40:11] "GET /admin/locations/ownerid/ HTTP/1.1" 200 31612
+[10/Nov/2020 10:40:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:40:15] "GET /admin/locations/calcattribute/ HTTP/1.1" 200 32872
+[10/Nov/2020 10:40:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:40:17] "GET /admin/locations/object/ HTTP/1.1" 200 37563
+[10/Nov/2020 10:40:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:40:20] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 10:40:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Watching for file changes with StatReloader
+[10/Nov/2020 10:58:04] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 10:58:04] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:58:04] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 10:58:19] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 10:58:19] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:19] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 10:58:22] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 10:58:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:58:29] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 10:58:29] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 10:58:29] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[10/Nov/2020 10:58:29] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+[10/Nov/2020 11:02:40] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 11:02:44] "GET /admin/locations/polygon/ HTTP/1.1" 200 30804
+[10/Nov/2020 11:02:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 11:02:48] "GET /admin/locations/object/ HTTP/1.1" 200 37563
+[10/Nov/2020 11:02:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 11:02:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 11:02:51] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[10/Nov/2020 11:02:51] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[10/Nov/2020 11:02:52] "GET /admin/locations/object/6077/change/ HTTP/1.1" 200 995244
+[10/Nov/2020 11:02:52] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[10/Nov/2020 11:02:52] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:43] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 14:04:43] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:43] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /admin/ HTTP/1.1" 200 6901
+[10/Nov/2020 14:04:44] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[10/Nov/2020 14:04:44] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[10/Nov/2020 14:04:44] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[10/Nov/2020 14:04:44] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[10/Nov/2020 14:04:46] "GET /admin/locations/object/ HTTP/1.1" 200 37563
+[10/Nov/2020 14:04:46] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[10/Nov/2020 14:04:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[10/Nov/2020 14:04:46] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:46] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Nov/2020 14:04:47] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[10/Nov/2020 14:04:47] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+Not Found: /
+[10/Nov/2020 15:10:08] "GET / HTTP/1.1" 404 2513
+[10/Nov/2020 15:30:34] "GET /admin/ HTTP/1.1" 200 6901

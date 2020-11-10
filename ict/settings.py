@@ -11,12 +11,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = '4_vxuap2u!#a)9mfwrtvqjbs0y2l@b+$kn0ypm7$*!=m58))q$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(os.environ.get('DEBUG', 1)))
 
-ALLOWED_HOSTS = ['localhost', 'ict-hack-api.herokuapp.com']
+ALLOWED_HOSTS = ['194.67.78.189']
 
 
 # Application definition
@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'ict.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'HOST': '',
-        'NAME': os.environ.get('DB_NAME'),
-        'USER': os.environ.get('DB_USER'),
-        'PORT': os.environ.get('DB_PORT'),
-        'PASSWORD': os.environ.get('DB_PASSWORD')
+        'HOST': 'localhost',
+        'NAME': 'ict_bd',
+        'USER': 'postgres',
+        'PORT': '5432',
+        'PASSWORD': 'Aecaithioph3'
     }
 }
 

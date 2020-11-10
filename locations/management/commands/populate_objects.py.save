@@ -21,7 +21,7 @@ class Command(BaseCommand):
                     end_date=owner_id_entry.get('end_date')
                 )
                 owner_id.save()
-
+    
                 calc_attribute_entry = entry.get('calc_attribute')
                 calc_attribute = CalcAttribute.objects.create(
                     info=calc_attribute_entry.get('info', 0.0) != 'null' or 0.0,
@@ -63,7 +63,7 @@ class Command(BaseCommand):
                     roadway_noprkg_manual_clean_area=calc_attribute_entry.get('roadway_noprkg_manual_clean_area', 0.0) != 'null' or 0.0
                 )
                 calc_attribute.save()
-
+    
                 points = []
                 for coordinates in entry.get('geometry').get('coordinates')[0]:
                     point = Point.objects.create(
@@ -71,11 +71,11 @@ class Command(BaseCommand):
                     )
                     point.save()
                     points.append(point)
-
+    
                 polygon = Polygon.objects.create()
                 polygon.points.set(points)
                 polygon.save()
-
+    
                 _object = Object.objects.create(
                     name=entry.get('name'),
                     owner_id=owner_id,
