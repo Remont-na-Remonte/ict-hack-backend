@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     # custom apps
     'locations',
     'itemized_lists',
+    'bot',
 ]
 
 MIDDLEWARE = [
