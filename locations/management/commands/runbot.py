@@ -9,6 +9,10 @@ from bot.models import TelegramUser
 import telebot
 from telebot import types
 import requests
+from django.conf import settings
+import sys
+sys.path.append(settings.BASE_DIR)
+import config
 
 keybord_geo = telebot.types.ReplyKeyboardMarkup(True, True)
 keybord_ans = telebot.types.ReplyKeyboardMarkup(True, True)
@@ -22,7 +26,7 @@ keybord_geo.add(button_geo)
 keybord_ans.add(button_ans)
 keyboard_next.add(button_next)
 
-TOKEN = "1303111269:AAG7mpTQtx7Pxly-mm5YdI36jDQiMDnHYBc"
+TOKEN = config.TOKEN
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 class Command(BaseCommand):
