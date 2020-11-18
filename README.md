@@ -27,3 +27,10 @@ To populate the DB with the initial objects run the following command:
 ```
 (ict-hack-backend) $ python manage.py populate_objects
 ```
+
+## Running the telegram bot
+
+To run the bot execute the following command:
+```
+(ict-hack-backend) $ python manage.py runbot
+```

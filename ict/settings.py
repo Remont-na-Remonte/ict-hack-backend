@@ -1,22 +1,23 @@
 import os
 import dj_database_url
-
+import sys
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+sys.path.append(BASE_DIR)
+import config
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = config.SECRET_KEY 
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(os.environ.get('DEBUG', 1)))
 
-ALLOWED_HOSTS = ['localhost', 'ict-hack-api.herokuapp.com']
+ALLOWED_HOSTS = ['194.67.78.189']
 
 
 # Application definition
@@ -37,6 +38,7 @@ INSTALLED_APPS = [
     # custom apps
     'locations',
     'itemized_lists',
+    'bot',
 ]
 
 MIDDLEWARE = [
@@ -77,11 +79,11 @@ WSGI_APPLICATION = 'ict.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'HOST': '',
-        'NAME': os.environ.get('DB_NAME'),
-        'USER': os.environ.get('DB_USER'),
-        'PORT': os.environ.get('DB_PORT'),
-        'PASSWORD': os.environ.get('DB_PASSWORD')
+        'HOST': 'localhost',
+        'NAME': 'ict_bd',
+        'USER': 'postgres',
+        'PORT': '5432',
+        'PASSWORD': 'Aecaithioph3'
     }
 }
 

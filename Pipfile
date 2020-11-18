@@ -15,6 +15,7 @@ whitenoise = "*"
 djangorestframework = "*"
 pandas = "*"
 xlrd = "*"
+bigjson = "*"
 
 [requires]
 python_version = "3.7"
