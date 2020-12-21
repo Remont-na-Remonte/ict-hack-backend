@@ -34,11 +34,13 @@ INSTALLED_APPS = [
     # third-party apps
     'location_field.apps.DefaultConfig',
     'rest_framework',
+    'djgeojson',
 
     # custom apps
     'locations',
     'itemized_lists',
     'bot',
+    'contracts',
 ]
 
 MIDDLEWARE = [
