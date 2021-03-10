@@ -1,5 +1,5 @@
 from django.contrib import admin
-from contracts.models import Object, Contract, Budget, Product, Contract_Customer, Contract_Supplier, Customer, Supplier, Section, Road, Section_Road
+from contracts.models import Object, Contract, Budget, Product, Contract_Customer, Contract_Supplier, Customer, Supplier, Section, Road, Section_Road, Section_Contract
 
 admin.site.register(Object)
 admin.site.register(Contract)
@@ -12,3 +12,4 @@ admin.site.register(Supplier)
 admin.site.register(Section)
 admin.site.register(Road)
 admin.site.register(Section_Road)
+admin.site.register(Section_Contract)
