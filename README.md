@@ -4,8 +4,8 @@
 
 Initially, install **pipenv** via _brew_ or _pip_.
 
-Then, set up the Postgres database with the data provided in _.env.example_.
-Now you should create file config.py with the data provided in example_config.py
+Then, set up the Postgres database with the data provided in example_config.py
+After filling in the file, rename it to "config.py"
 
 Next, enter the pipenv shell and install the reqired dependencies
 ```
