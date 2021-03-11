@@ -82,7 +82,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': config.BD_NAME,
         'USER': config.BD_USER,
-        'PORT': config.BD_PORT,
+        'PORT': BD_PORT,
         'PASSWORD': config.BD_PASS
     }
 }
