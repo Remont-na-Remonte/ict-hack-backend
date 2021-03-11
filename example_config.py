@@ -1,2 +1,6 @@
-TOKEN=
-SECRET_KEY=
+TOKEN=""
+SECRET_KEY=""
+DB_NAME="ict_bd"
+DB_USER="postgres"
+DB_PASSWORD=""
+DB_PORT=5432
