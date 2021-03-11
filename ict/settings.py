@@ -17,7 +17,7 @@ SECRET_KEY = config.SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(os.environ.get('DEBUG', 1)))
 
-ALLOWED_HOSTS = ['194.67.78.189']
+ALLOWED_HOSTS = ['194.67.78.189', '127.0.0.1']
 
 
 # Application definition
@@ -80,10 +80,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'HOST': 'localhost',
-        'NAME': 'ict_bd',
-        'USER': 'postgres',
-        'PORT': '5432',
-        'PASSWORD': 'Aecaithioph3'
+        'NAME': config.BD_NAME,
+        'USER': config.BD_USER,
+        'PORT': BD_PORT,
+        'PASSWORD': config.BD_PASS
     }
 }
 
