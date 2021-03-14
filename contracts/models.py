@@ -2,7 +2,7 @@ from django.db import models
 from django.utils import timezone
 
 class Budget(models.Model):
-    code = models.IntegerField()
+    code = models.IntegerField(primary_key=True, editable=False)
     name = models.CharField(max_length=1024, null=True)
     endDate = models.DateField(null=True)
     KBK = models.CharField(default="None", blank=True, max_length=64, null=True)
@@ -89,9 +89,9 @@ class Road(models.Model):
 
 class Section_Road(models.Model):
     road = models.ForeignKey(Road, on_delete=models.CASCADE)
-    selection = models.ForeignKey(Section, on_delete=models.CASCADE)
+    section = models.ForeignKey(Section, on_delete=models.CASCADE)
 
 
 class Section_Contract(models.Model):
-    selection = models.ForeignKey(Section, on_delete=models.CASCADE)
+    section = models.ForeignKey(Section, on_delete=models.CASCADE)
     contract = models.ForeignKey(Contract, on_delete=models.CASCADE)
