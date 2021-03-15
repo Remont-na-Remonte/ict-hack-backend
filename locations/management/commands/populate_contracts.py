@@ -48,9 +48,9 @@ class Command(BaseCommand):
             count = 0
             for entry in data:
                 budget_entry = None
-                if count < 129663:
-                    count += 1
-                    continue
+                #if count < 129663:
+                #    count += 1
+                #    continue
                 try:
                     budget_entry = (entry.get('contract')).get('finances')
                 except:
@@ -160,23 +160,30 @@ class Command(BaseCommand):
             print()
             print()
             print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
-            
-            data2 = bigjson.load(json_file2)
+
+            data2 = bigjson.load(json_file2)['features']
             for entry in data2:
-                contracts = entry.get('properties').get('contract')
+                coords = []
+                for cor in entry.get('geometry').get('coordinates'):
+                    xy = [cor[0], cor[1]]
+                    coords.append(xy)
+
                 sc = Section.objects.create(
                     km = try_to_num(entry.get('properties').get('km'), 'int'),
                     section_start = try_to_num(entry.get('properties').get('section_start'), 'int'),
                     section_end = try_to_num(entry.get('properties').get('section_end'), 'int'),
-                    coordinates = entry.get('geometry').get('coordinates')
+                    coordinates = json.dumps(list(coords))
                 )
 
+                contracts = entry['properties']['contract']
                 for contract in contracts:
+                    #print(contract.get('id'))
                     try:
                         ct = Contract.objects.get(id=contract.get('id'))
                         sc.contracts.add(ct)
-                    except Exception as e:
-                        print("((((((((((((((((((((((((((((((((((((((((CAN'T FIND FUCKING CONTRACT(((((((((((((((((((((((((((((((((((((((((((((((((((((" + str(e))
+                    except:
+                        pass
+                        #print('----------404 CONTRACT-------------***')
                 sc.save()
 
                 rd = Road.objects.create(
