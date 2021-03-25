@@ -27,6 +27,7 @@ class Migration(migrations.Migration):
             name='Contract',
             fields=[
                 ('id', models.CharField(editable=False, max_length=30, primary_key=True, serialize=False)),
+                ('average_km_price', models.DecimalField(max_digits=16, decimal_places=5, null=True)),
                 ('contratUrl', models.URLField()),
                 ('documentBase', models.CharField(max_length=1024)),
                 ('startDate', models.DateField()),
