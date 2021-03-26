@@ -7,6 +7,18 @@ import bigjson
 from django.core.management.base import BaseCommand
 from contracts.models import Object, Contract, Budget, Product, Contract_Customer, Contract_Supplier, Customer, Supplier, Section, Road, Section_Road
 MonkeyPatch.patch_fromisoformat()
+import json
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 
 def try_to_date(date):
@@ -41,6 +53,12 @@ def try_to_num(num, num_type):
         return Decimal(num)
 
 
+def log(mess, isOk=True):
+    if isOk:
+        print(bcolors.OKGREEN + "[+] " + mess + bcolors.ENDC)
+    if not isOk:
+        print(bcolors.FAIL + "[!] " + mess + bcolors.ENDC)
+
 class Command(BaseCommand):
     def handle(self, *args, **options):
         with open('full_export.json', 'rb') as json_file, open('parsed_dissected.json', 'rb') as json_file2: 
@@ -54,7 +72,7 @@ class Command(BaseCommand):
                 try:
                     budget_entry = (entry.get('contract')).get('finances')
                 except:
-                    print('^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^^-^-^^-^^-^^-^^-^^-^^-^')
+                    log('Budget FUCKED UP', False)
                 date = None
                 try:
                     date = datetime(int(budget_entry['budgetFunds']['stages'][0]['payments']['paymentYear']),
@@ -65,10 +83,9 @@ class Command(BaseCommand):
                 try:
                     budget_entry.get('budget').get('code')
                 except:
-                    print("***************FUCK_BUFGET>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+                    log('Budget Fucked Up', False)
                     continue
 
-                print(budget_entry)
                 try:
                     bg = Budget.objects.create(
                         code=budget_entry.get('budget').get('code'),
@@ -80,7 +97,7 @@ class Command(BaseCommand):
                     )
                     bg.save()
                 except django.db.utils.IntegrityError:
-                    print('--------SAVE ID ERROR--################################################################################################################################################>>>>>>>')
+                    log('SAVE ID ERROR', False)
                 contract_entry = entry.get('contract')
                 try:
                     ct = Contract.objects.create(
@@ -112,7 +129,7 @@ class Command(BaseCommand):
                         cm.save()
                         ct.customers.add(cm)
                     except django.db.utils.IntegrityError:
-                        print('------------THE SAME CUSTOMER---------------------------------------------------->>')
+                        log('THE SAME CUSTOMER', False)
                     suppliers_entry = contract_entry.get('suppliers')
                     for supplier_entry in suppliers_entry:
                         try:
@@ -129,7 +146,7 @@ class Command(BaseCommand):
                             sp.save()
                             ct.suppliers.add(sp)
                         except django.db.utils.IntegrityError:
-                            print('------------THE SAME SUPPLIER---------------------------------------------------->>')
+                            log('THE SAME SUPPLIER', False)
                     ct.save()
                 
                     obj = Object.objects.create(
@@ -140,7 +157,6 @@ class Command(BaseCommand):
                         contract=ct
                     )                
                     obj.save()
-
                 
                     products_entry = contract_entry.get('products')
                     for product_entry in products_entry:
@@ -153,13 +169,13 @@ class Command(BaseCommand):
                             )
                             pd.save()
                         except django.db.utils.IntegrityError:
-                            print('---------THE SAME PRODUCT-------------------------------------------------------->>')
+                            log('THE SAME PRODUCT', False)
                 except django.db.utils.IntegrityError:
-                    print('-----------------SAME ID!##################################################################################################################################################################')
+                    log('SAME ID!', False)
             print()
             print()
             print()
-            print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
+            log('THE END :)')
 
             data2 = bigjson.load(json_file2)['features']
             for entry in data2:
