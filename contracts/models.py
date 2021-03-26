@@ -31,7 +31,7 @@ class Supplier(models.Model):
 
 class Contract(models.Model):
     id = models.CharField(primary_key=True, editable=False, max_length=30)
-    average_km_price = models.DecimalField(max_digits=16, decimal_places=5, null=True),
+    kmPrice = models.DecimalField(max_digits=16, decimal_places=5, null=True)
     customers = models.ManyToManyField(Customer,related_name="customer_contract_type", through='Contract_Customer')
     suppliers = models.ManyToManyField(Supplier, through='Contract_Supplier')
     contractUrl = models.URLField(max_length=5028, null=True)
